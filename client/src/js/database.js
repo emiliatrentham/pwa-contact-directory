@@ -1,5 +1,6 @@
 // TODO: Install the following package:
-import { openDB } from 'idb';
+// import { openDB } from 'idb'; 
+// idb is an npm package that makes using index.db easier 
 
 // TODO: Complete the initDb() function below:
 const initdb = async () => {
